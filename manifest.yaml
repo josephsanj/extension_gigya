@@ -1,0 +1,6 @@
+---
+applications:
+- name: register
+  random-route: true
+  path: myapp
+  memory: 128M
